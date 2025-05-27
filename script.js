@@ -8,9 +8,12 @@ const containerLetter = document.querySelector('.container-letter');
 
 const saludos = {
   'Vicenta': 'Querida Suegra',
+  'Esperanza': 'Querida Doña Esperanza',
   'Lenny': 'Querida Cuñada Lenny',
   'Rocio': 'Querida Cuñada Rocio',
   'Karina': 'Querida Cuñada Karina',
+  'Carla': 'Querida Carla',
+  'Lina': 'Querida Lina',
   'Grisel': 'Querida Sobrina Grisel',
   'Ceci': 'Querida Sobrina Ceci',
   'Belén': 'Querida Sobrina Belén',
@@ -26,9 +29,12 @@ select.addEventListener('change', () => {
 
     const fondos = {
       'Vicenta': 'linear-gradient(to bottom, #ffe6e6, #ffb3b3)',
+      'Esperanza': 'linear-gradient(to bottom, #ffe6e6, #ffb3b3)',
       'Lenny': 'linear-gradient(to bottom, #e6f7ff, #b3ecff)',
       'Rocio': 'linear-gradient(to bottom, #ffe6e6, #ffb3b3)',
       'Karina': 'linear-gradient(to bottom, #e6f7ff, #b3ecff)',
+      'Carla': 'linear-gradient(to bottom, #ffe6e6, #ffb3b3)',
+      'Lina': 'linear-gradient(to bottom, #e6f7ff, #b3ecff)',
       'Grisel': 'linear-gradient(to bottom, #e6ffe6, #b3ffb3)',
       'Ceci': 'linear-gradient(to bottom, #ffe6e6, #ffb3b3)',
       'Belén': 'linear-gradient(to bottom, #e6f7ff, #b3ecff)',
