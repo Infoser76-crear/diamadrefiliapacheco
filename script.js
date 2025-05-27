@@ -9,7 +9,7 @@ const containerLetter = document.querySelector('.container-letter');
 const saludos = {
   'Vicenta': 'Querida Suegra',
   'Lenny': 'Querida Cuñada Lenny',
-  'Rocio ': 'Querida Cuñada Rocio',
+  'Rocio': 'Querida Cuñada Rocio',
   'Karina': 'Querida Cuñada Karina',
   'Grisel': 'Querida Sobrina Grisel',
   'Ceci': 'Querida Sobrina Ceci',
